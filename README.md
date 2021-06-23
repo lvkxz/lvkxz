@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lvkxz</h1>
-<h3 align="center">A trained software developer from Germany</h3>
+<h3 align="center">An educated software developer from Germany</h3>
 
 - 🌱 I’m currently learning **Python**
 
